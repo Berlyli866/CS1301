@@ -1,0 +1,495 @@
+Best Picture
+Ford v Ferrari
+Nominated
+
+Best Picture
+The Irishman
+Nominated
+
+Best Picture
+Jojo Rabbit
+Nominated
+
+Best Picture
+Joker
+Nominated
+
+Best Picture
+Little Women
+Nominated
+
+Best Picture
+Marriage Story
+Nominated
+
+Best Picture
+1917
+Nominated
+
+Best Picture
+Once Upon a Time in Hollywood
+Nominated
+
+Best Picture
+Parasite
+Winner
+
+Best Lead Actor
+Antonio Banderas (Pain and Glory)
+Nominated
+
+Best Lead Actor
+Leonardo DiCaprio (Once Upon a Time in Hollywood)
+Nominated
+
+Best Lead Actor
+Adam Driver (Marriage Story)
+Nominated
+
+Best Lead Actor
+Joaquin Phoenix (Joker)
+Winner
+
+Best Lead Actor
+Jonathan Pryce (The Two Popes)
+Nominated
+
+Best Lead Actress
+Cynthia Erivo (Harriet)
+Nominated
+
+Best Lead Actress
+Scarlett Johansson (Marriage Story)
+Nominated
+
+Best Lead Actress
+Saoirse Ronan (Little Women)
+Nominated
+
+Best Lead Actress
+Charlize Theron (Bombshell)
+Nominated
+
+Best Lead Actress
+Renee Zellweger (Judy)
+Winner
+
+Best Supporting Actor
+Tom Hanks (A Beautiful Day in the Neighborhood)
+Nominated
+
+Best Supporting Actor
+Anthony Hopkins (The Two Popes)
+Nominated
+
+Best Supporting Actor
+Al Pacino (The Irishman)
+Nominated
+
+Best Supporting Actor
+Joe Pesci (The Irishman)
+Nominated
+
+Best Supporting Actor
+Brad Pitt (Once Upon a Time in Hollywood)
+Winner
+
+Best Supporting Actress
+Kathy Bates (Richard Jewell)
+Nominated
+
+Best Supporting Actress
+Laura Dern (Marriage Story)
+Winner
+
+Best Supporting Actress
+Scarlett Johansson (Jojo Rabbit)
+Nominated
+
+Best Supporting Actress
+Florence Pugh (Little Women)
+Nominated
+
+Best Supporting Actress
+Margot Robbie (Bombshell)
+Nominated
+
+Best Director
+Martin Scorsese (The Irishman)
+Nominated
+
+Best Director
+Todd Phillips (Joker)
+Nominated
+
+Best Director
+Sam Mendes (1917)
+Nominated
+
+Best Director
+Quentin Tarantino (Once Upon a Time in Hollywood)
+Nominated
+
+Best Director
+Bong Joon Ho (Parasite)
+Winner
+
+Best Animated Feature
+How to Train Your Dragon: The Hidden World
+Nominated
+
+Best Animated Feature
+I Lost My Body
+Nominated
+
+Best Animated Feature
+Klaus
+Nominated
+
+Best Animated Feature
+Missing Link
+Nominated
+
+Best Animated Feature
+Toy Story 4
+Winner
+
+Best Animated Short
+Dcera
+Nominated
+
+Best Animated Short
+Hair Love
+Winner
+
+Best Animated Short
+Kitbull
+Nominated
+
+Best Animated Short
+Memorable
+Nominated
+
+Best Animated Short
+Sister
+Nominated
+
+Best Adapted Screenplay
+The Irishman
+Nominated
+
+Best Adapted Screenplay
+Jojo Rabbit
+Winner
+
+Best Adapted Screenplay
+Joker
+Nominated
+
+Best Adapted Screenplay
+Little Women
+Nominated
+
+Best Adapted Screenplay
+The Two Popes
+Nominated
+
+Best Original Screenplay
+Knives Out
+Nominated
+
+Best Original Screenplay
+Marriage Story
+Nominated
+
+Best Original Screenplay
+1917
+Nominated
+
+Best Original Screenplay
+Once Upon a Time in Hollywood
+Nominated
+
+Best Original Screenplay
+Parasite
+Winner
+
+Best Cinematography
+The Irishman
+Nominated
+
+Best Cinematography
+Joker
+Nominated
+
+Best Cinematography
+The Lighthouse
+Nominated
+
+Best Cinematography
+1917
+Winner
+
+Best Cinematography
+Once Upon a Time in Hollywood
+Nominated
+
+Best Documentary Feature
+American Factory
+Winner
+
+Best Documentary Feature
+The Cave
+Nominated
+
+Best Documentary Feature
+The Edge of Democracy
+Nominated
+
+Best Documentary Feature
+For Sama
+Nominated
+
+Best Documentary Feature
+Honeyland
+Nominated
+
+Best Documentary Short Subject
+In the Absence
+Nominated
+
+Best Documentary Short Subject
+Learning to Skateboard in a Warzone
+Winner
+
+Best Documentary Short Subject
+Life Overtakes Me
+Nominated
+
+Best Documentary Short Subject
+St. Louis Superman
+Nominated
+
+Best Documentary Short Subject
+Walk Run Cha-Cha
+Nominated
+
+Best Live Action Short Film
+Brotherhood
+Nominated
+
+Best Live Action Short Film
+Nefta Football Club
+Nominated
+
+Best Live Action Short Film
+The Neighbors’ Window
+Winner
+
+Best Live Action Short Film
+Saria
+Nominated
+
+Best Live Action Short Film
+A Sister
+Nominated
+
+Best International Feature Film
+Corpus Christi
+Nominated
+
+Best International Feature Film
+Honeyland
+Nominated
+
+Best International Feature Film
+Les Miserables
+Nominated
+
+Best International Feature Film
+Pain and Glory
+Nominated
+
+Best International Feature Film
+Parasite
+Winner
+
+Best Film Editing
+Ford v Ferrari
+Winner
+
+Best Film Editing
+The Irishman
+Nominated
+
+Best Film Editing
+Jojo Rabbit
+Nominated
+
+Best Film Editing
+Joker
+Nominated
+
+Best Film Editing
+Parasite
+Nominated
+
+Best Sound Editing
+Ford v Ferrari
+Winner
+
+Best Sound Editing
+Joker
+Nominated
+
+Best Sound Editing
+1917
+Nominated
+
+Best Sound Editing
+Once Upon a Time in Hollywood
+Nominated
+
+Best Sound Editing
+Star Wars: The Rise of SkyWalker
+Nominated
+
+Best Sound Mixing
+Ad Astra
+Nominated
+
+Best Sound Mixing
+Ford v Ferrari
+Nominated
+
+Best Sound Mixing
+Joker
+Nominated
+
+Best Sound Mixing
+1917
+Winner
+
+Best Sound Mixing
+Once Upon a Time in Hollywood
+Nominated
+
+Best Production Design
+The Irishman
+Nominated
+
+Best Production Design
+Jojo Rabbit
+Nominated
+
+Best Production Design
+1917
+Nominated
+
+Best Production Design
+Once Upon a Time in Hollywood
+Winner
+
+Best Production Design
+Parasite
+Nominated
+
+Best Original Score
+Joker
+Winner
+
+Best Original Score
+Little Women
+Nominated
+
+Best Original Score
+Marriage Story
+Nominated
+
+Best Original Score
+1917
+Nominated
+
+Best Original Score
+Star Wars: The Rise of Skywalker
+Nominated
+
+Best Original Song
+I Can’t Let You Throw Yourself Away
+Nominated
+
+Best Original Song
+I’m Gonna Love Me Again
+Winner
+
+Best Original Song
+I’m Standing With You
+Nominated
+
+Best Original Song
+Into the Unknown
+Nominated
+
+Best Original Song
+Stand Up
+Nominated
+
+Best Makeup and Hair
+Bombshell
+Winner
+
+Best Makeup and Hair
+Joker
+Nominated
+
+Best Makeup and Hair
+Judy
+Nominated
+
+Best Makeup and Hair
+Maleficent: Mistress of Evil
+Nominated
+
+Best Makeup and Hair
+1917
+Nominated
+
+Best Costume Design
+The Irishman
+Nominated
+
+Best Costume Design
+Jojo Rabbit
+Nominated
+
+Best Costume Design
+Joker
+Nominated
+
+Best Costume Design
+Little Women
+Winner
+
+Best Costume Design
+Once Upon a Time in Hollywood
+Nominated
+
+Best Visual Effects
+Avengers Endgame
+Nominated
+
+Best Visual Effects
+The Irishman
+Nominated
+
+Best Visual Effects
+1917
+Winner
+
+Best Visual Effects
+The Lion King
+Nominated
+
+Best Visual Effects
+Star Wars: The Rise of Skywalker
+Nominated
