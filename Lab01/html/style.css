@@ -1,0 +1,11 @@
+body {
+  /*Change the background of the entire site to light blue*/
+  background-color: powderblue;
+  /*Change the font of the website to Arial*/
+  font-family: Arial;
+}
+
+p {
+  /*Change the color of all paragraphs to red*/
+  color: red;
+}
